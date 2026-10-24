@@ -996,4 +996,3 @@ st.caption(
     "Capstone Dashboard | Analysis of Service Access Patterns Among Indigenous Communities "
     "in Bunawan, Agusan del Sur Using Data Mining | "
     "Falcasantos, K.M.P. and Adrales, K.J. | Agusan del Sur State University | 2026"
-)
